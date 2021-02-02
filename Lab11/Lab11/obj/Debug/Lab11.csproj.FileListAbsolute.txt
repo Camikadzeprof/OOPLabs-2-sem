@@ -1,0 +1,17 @@
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\MainWindow.g.cs
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\PhotoViewer.g.cs
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\App.g.cs
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11_MarkupCompile.lref
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\MainWindow.baml
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\PhotoViewer.baml
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.g.resources
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\Lab11.pdb

@@ -1,0 +1,11 @@
+D:\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.exe.config
+D:\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.exe
+D:\WindowsForms3\WindowsForms3\bin\Debug\WindowsForms3.pdb
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csprojAssemblyReference.cache
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.Form1.resources
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.Properties.Resources.resources
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.Search.resources
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.GenerateResource.cache
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.csproj.CoreCompileInputs.cache
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.exe
+D:\WindowsForms3\WindowsForms3\obj\Debug\WindowsForms3.pdb

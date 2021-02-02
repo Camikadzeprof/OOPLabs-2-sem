@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Building xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Houses>
+    <House>
+      <Date_built>2020-06-12T10:28:48.9124776+03:00</Date_built>
+      <Material>Дерево</Material>
+      <Floor>4</Floor>
+      <Rooms>4</Rooms>
+      <Meter>216</Meter>
+      <Windows>6</Windows>
+      <WindowsSide>солнечная</WindowsSide>
+      <Result>asfb: 4-комн., 6 окон, солнечная сторона, 4 этаж, Дерево, 216 кв.м + кухня + балкон + туалетЦена: 39784$.</Result>
+      <Address>
+        <Country>dfba</Country>
+        <City>dfbsfb</City>
+        <Street>asfb</Street>
+        <Home>6</Home>
+        <Apartment>7</Apartment>
+      </Address>
+      <Price>39784</Price>
+    </House>
+    <House>
+      <Date_built>2020-06-12T10:28:48.9124776+03:00</Date_built>
+      <Material>Дерево</Material>
+      <Floor>4</Floor>
+      <Rooms>4</Rooms>
+      <Meter>216</Meter>
+      <Windows>6</Windows>
+      <WindowsSide>солнечная</WindowsSide>
+      <Result>asfb: 4-комн., 6 окон, солнечная сторона, 4 этаж, Дерево, 216 кв.м + кухня + балкон + туалетЦена: 39784$.</Result>
+      <Address>
+        <Country>dfba</Country>
+        <City>dfbsfb</City>
+        <Street>asfb</Street>
+        <Home>6</Home>
+        <Apartment>7</Apartment>
+      </Address>
+      <Price>39784</Price>
+    </House>
+  </Houses>
+  <Address>
+    <Home>0</Home>
+    <Apartment>0</Apartment>
+  </Address>
+</Building>
